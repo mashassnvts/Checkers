@@ -1,3 +1,3 @@
 ## Checkers
 
-A checkers game written in js
+there is nothing to do on vacation at all, so I decided to make checkers on js
